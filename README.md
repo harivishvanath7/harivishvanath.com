@@ -1,1 +1,1 @@
-# harivishvanath.com - My Portfolio Website (A Digital Resume)
+# harivishvanath.com - My Personal Portfolio Website (A Digital Resume)
